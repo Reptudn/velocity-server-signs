@@ -1,0 +1,4 @@
+name: VelocityServerSigns
+version: '1.0-SNAPSHOT'
+main: de.reptudn.velocityServerSigns.VelocityServerSigns
+api-version: '1.21'
